@@ -1,0 +1,20 @@
+.keyframesign
+{
+animation-name:slow2;
+animation-duration: 1s;
+animation-iteration-count: 1;
+
+
+}
+
+@keyframes slow2
+{
+    0%{
+transform: translate(0px,200px);
+}
+100%{
+transform: translate(0px,-380px);
+}
+
+
+}
